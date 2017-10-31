@@ -1,6 +1,6 @@
 # PHYS220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Quinn Gates, Dain Miller, Andrew Papilion**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME)
 
@@ -21,7 +21,7 @@ This week, you will explore the differences between ```python/numpy``` and the e
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Matlab seems tedious although it is an industry standard so it is important to understand.  We can see how it can be incredibly useful and the visuals you can make are very good.
 
 ## Honor Pledge
 
@@ -32,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Quinn Gates, Dain Miller, Andrew Papilion**
